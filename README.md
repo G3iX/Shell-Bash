@@ -1,4 +1,7 @@
-# Scripts list:
+# `Scripts list:`
+
+![This is an image](https://img.shields.io/badge/Shell-100%25-brightgreen)
+![This is an image](https://img.shields.io/badge/version-0.1-lightblue)
 
 **sh1**: shell-сценарій, який виводить на екран усі групи користувачів, що існують у системі, і підраховує їх кількість.
 
