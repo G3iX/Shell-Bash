@@ -2,6 +2,22 @@
 
 ![This is an image](https://img.shields.io/badge/Shell-100%25-brightgreen)
 ![This is an image](https://img.shields.io/badge/version-0.1-lightblue)
+## ENG
+**sh1**: A shell script that displays all user groups that exist on the system and counts their number.
+
+**sh2**: a shell script that, based on the date entered by the user, prints the name of the day of the week on the screen.
+
+**sh3**: bash script that sorts inputted numbers.
+
+**sh4**: shell script for copying one file to another.
+
+**sh5**: A shell script that counts and prints to the screen the number of options (arguments preceded by -) and arguments (arguments not preceded by -) for a command on the command line.
+
+**sh6**: A shell script that copies the contents of the directory specified by the first argument to the directory specified by the second argument.
+
+**sh7**: A shell script that prompts for a number between 1 and 5. It then prints a doubled value. The next line prints the value of the previous one, doubled, and so on, until a result greater than that number multiplied by 50 is printed.
+
+## UKR
 
 **sh1**: shell-сценарій, який виводить на екран усі групи користувачів, що існують у системі, і підраховує їх кількість.
 
