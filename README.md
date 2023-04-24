@@ -17,6 +17,9 @@
 
 **sh7**: A shell script that prompts for a number between 1 and 5. It then prints a doubled value. The next line prints the value of the previous one, doubled, and so on, until a result greater than that number multiplied by 50 is printed.
 
+**sh8**: script that compiles the program with various optimizations (-O) and measured its running time. If the time is small enough, it measures the running time of the algorithm starts in a cycle.
+
+
 ## UKR
 
 **sh1**: shell-сценарій, який виводить на екран усі групи користувачів, що існують у системі, і підраховує їх кількість.
@@ -32,3 +35,6 @@
 **sh6**: shell-сценарій, що виконує копіювання вмісту каталогу, який задається першим аргументом до каталогу, що задається другим аргументом.
 
 **sh7**: shell-сценарій, який запрошує введення числа між 1 та 5. Далі він друкує збільшене вдвічі введене значення. У наступному рядку друкується значення попереднього, збільшеного вдвічі й т.д., доки не буде надруковано результат, більший за це число помножене на 50.
+
+**sh8**: сценарій, який компілює програму з різними оптимізаціями (-O) та виміряв час її роботи. Якщо час досить малий - вимірює час роботи запусків алгоритму в циклі(обирається вами).
+
